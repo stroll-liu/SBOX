@@ -1,0 +1,12 @@
+node_modules
+/demos
+/test
+/src
+
+index.ts
+
+.vscode
+.babelrc
+.gitignore
+rollup.config.js
+yarn.lock
